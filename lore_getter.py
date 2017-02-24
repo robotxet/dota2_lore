@@ -1,3 +1,4 @@
+#!/usr/bin/python
 import codecs
 import os.path
 from lxml import html
